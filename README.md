@@ -30,12 +30,6 @@ This project allows users to report lost or found items easily, complete with im
 * Photo preview for each report
 * Status badge (lost / found)
 
-### 🌙 UI Enhancements
-
-* Dark mode / Light mode toggle
-* Responsive design (mobile-first)
-* Clean, modern styling
-
 ### 💾 Local Data Storage
 
 All reports are saved inside the browser using:
